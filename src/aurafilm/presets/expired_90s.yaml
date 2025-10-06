@@ -1,0 +1,7 @@
+name: expired_90s
+tone: { toe: 0.14, shoulder: 0.86, contrast: 4.6, lift: 0.02, gamma: 1.05, gain: 1.00 }
+grain: { strength: 0.18, scale: 1.6 }
+halation: { thresh: 0.78, r: 9, g: 5, b: 3, strength: 0.20 }
+bloom: { radius: 8, strength: 0.18 }
+optics: { ca_pixels: 0.7, vignette_strength: 0.25, vignette_round: 0.65 }
+temporal: { flicker: 0.03, weave: 0.9 }

@@ -1,0 +1,7 @@
+name: kodachrome_60s
+tone: { toe: 0.10, shoulder: 0.92, contrast: 6.0, lift: 0.00, gamma: 1.00, gain: 1.06 }
+grain: { strength: 0.10, scale: 1.1 }
+halation: { thresh: 0.82, r: 10, g: 6, b: 3, strength: 0.22 }
+bloom: { radius: 5, strength: 0.10 }
+optics: { ca_pixels: 0.8, vignette_strength: 0.22, vignette_round: 0.8 }
+temporal: { flicker: 0.015, weave: 0.6 }

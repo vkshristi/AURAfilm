@@ -1,0 +1,7 @@
+name: bw_trix
+tone: { toe: 0.08, shoulder: 0.90, contrast: 6.4, lift: 0.00, gamma: 1.00, gain: 1.02 }
+grain: { strength: 0.22, scale: 1.4 }
+halation: { thresh: 0.85, r: 6, g: 6, b: 6, strength: 0.10 }
+bloom: { radius: 4, strength: 0.08 }
+optics: { ca_pixels: 0.0, vignette_strength: 0.20, vignette_round: 0.75 }
+temporal: { flicker: 0.02, weave: 0.5 }
