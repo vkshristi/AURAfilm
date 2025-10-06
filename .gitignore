@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Build artifacts & media (will be created later)
+captures/
+data/
+experiments/
+runs/
+checkpoints/
+models/
