@@ -1,0 +1,27 @@
+name: portra_00s
+tone:
+  toe: 0.12
+  shoulder: 0.88
+  contrast: 5.2
+  lift: 0.01
+  gamma: 1.02
+  gain: 1.03
+grain:
+  strength: 0.12
+  scale: 1.2
+halation:
+  thresh: 0.80
+  r: 8
+  g: 5
+  b: 3
+  strength: 0.18
+bloom:
+  radius: 7
+  strength: 0.15
+optics:
+  ca_pixels: 0.6
+  vignette_strength: 0.18
+  vignette_round: 0.7
+temporal:
+  flicker: 0.02
+  weave: 0.5
